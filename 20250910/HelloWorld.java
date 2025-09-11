@@ -6,6 +6,7 @@ public class HelloWorld {
    public static void main(String[] var0) {
       System.out.println("안녕하세요, Java의 세계에 오신 것을 환영합니다!");
       System.out.println("Hello, World!");
+      System.out.println("Git 테스트 추가!");
       String var1 = "Java 학습자";
       byte var2 = 20;
       System.out.println("\n=== 자기소개 ===");

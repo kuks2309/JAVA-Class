@@ -22,5 +22,29 @@ public class variables {
          double pi = 3.1415;
          int wholeNumber = (int)pi;
          System.out.println(wholeNumber);
+
+
+         num1 = 7;
+         num2 = 3;
+
+         System.out.println("num1 + num2 = " + (num1 + num2));
+         System.out.println("num1 - num2 = " + (num1 - num2));
+         System.out.println("num1 * num2 = " + (num1 * num2));
+         System.out.println("num1 / num2 = " + (num1 / num2));
+         System.out.println("num1 % num2 = " + (num1 % num2));
+
+         num1 = 7;
+         num2 = 3;
+          // Integer division
+         System.out.println("num1 / num2 = " + (num1 / num2));
+
+         // Floating-point division
+         System.out.println("num1 / num2 = " + ((float)num1 / (float)num2));
+
+         // Floating-point division
+         System.out.println("num1 / num2 = " + (float)(num1 / num2));
+
+         // Floating-point division
+         System.out.println("num1 / num2 = " + (num1 / (float)num2));
      }
 }

@@ -1,0 +1,24 @@
+# PowerPoint 파일들 제외
+*.pptx
+*.ppt
+~$*.pptx
+~$*.ppt
+
+# 기타 임시 파일들
+*.tmp
+*.temp
+*~
+
+# IDE 관련 파일들
+.vscode/
+.idea/
+*.iml
+
+# 컴파일된 Java 파일들
+*.class
+*.jar
+*.war
+*.ear
+
+# 로그 파일들
+*.log
